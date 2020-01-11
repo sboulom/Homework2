@@ -2,9 +2,6 @@
     width: 100%;
     height: 400px;
 }
-#NAME, #email, #message {
-    width: 70%;
-}
 
 #message {
     height: 250px;
