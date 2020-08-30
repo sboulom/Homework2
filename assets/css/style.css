@@ -3,7 +3,7 @@ body {
   font-family: 'Raleway', sans-serif;
   text-align: center;
   /* background-color: #EAF6F6;  test purpose*/
-  background-color: black;
+  background-color: grey;
 }
 .btm-cloud {
   position: absolute;
@@ -34,11 +34,11 @@ h2 {
   height: 12.5rem;
   width: 12.5rem;
 }
-
+/* 
 .skill-row {
   margin-top: 50px;
   margin-bottom: 50px;
-}
+} */
 
 p {
   color: #40514E;
@@ -48,7 +48,7 @@ a {
   font-family: 'Raleway', sans-serif;
   margin: 10px 20px;
   text-decoration: none;
-  color: #11999E;
+  color: black;
 }
 
 a:hover {
@@ -114,4 +114,9 @@ a:hover {
 /* project images  */
 .img {
   width: 50%;
+}
+
+/* carousel img  */
+img {
+  border-radius: 3%;
 }
