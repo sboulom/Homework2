@@ -10,8 +10,8 @@ body {
 }
 .top-cloud {
   position: relative;
-  left: 220px;
-  top: 40px;
+  left: 420px;
+  top: 20px;
 }
 h1{
   font-family: 'Yellowtail', cursive;
@@ -78,10 +78,10 @@ a:hover {
   line-height: 20px;
   color: #FFFFFF;
   font-family: Arial;
-  width: 100px;
+  width: 150px;
   font-size: 20px;
   font-weight: 100;
-  padding: 22px;
+  padding: 20px;
   border: solid #337FED 1px;
   text-decoration: none;
   display: inline-block;
@@ -119,4 +119,8 @@ a:hover {
 /* carousel img  */
 img {
   border-radius: 3%;
+}
+
+.contact-me {
+  padding-top: 20px;
 }
